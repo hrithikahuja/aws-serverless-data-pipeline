@@ -1,1 +1,1 @@
-# medlaunch-aws-healthcare-pipeline
+# aws-healthcare-pipeline
